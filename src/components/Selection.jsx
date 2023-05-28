@@ -7,7 +7,7 @@ import {
     , Button, Card, CardContent, CardActions, Typography
 } from '@mui/material';
 
-import metroImg from "../../public/images/metroImg.jpg";
+import small from "../../public/images/small.jpg";
 
 
 const Selection = () => {
@@ -84,7 +84,7 @@ const Selection = () => {
                                 width: "100%",
                                 backgroundColor:"black"
                             }}><img  
-                              src={metroImg}/>
+                              src={small}/>
                               </Box>
                         </Grid>
 
